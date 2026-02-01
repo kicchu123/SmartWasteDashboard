@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600">
+  <rect width="100%" height="100%" fill="#f8fafc"/>
+  <text x="40" y="60" font-size="28" font-family="Arial" fill="#0f172a">Smart Waste Management Dashboard (Preview)</text>
+  <g transform="translate(40,120)">
+    <rect x="0" y="0" width="260" height="120" rx="16" fill="#ffffff" stroke="#e2e8f0"/>
+    <text x="16" y="28" font-size="16" font-family="Arial" fill="#0f172a">Bin BIN-1000</text>
+    <text x="16" y="50" font-size="12" fill="#94a3b8">Zone 1 — Last seen: 2025-10-23 10:00</text>
+    <rect x="16" y="72" width="228" height="14" rx="8" fill="#eef2ff"/>
+    <rect x="16" y="72" width="160" height="14" rx="8" fill="#fde68a"/>
+    <text x="200" y="86" font-size="12" fill="#0f172a">65%</text>
+  </g>
+  <g transform="translate(340,120)">
+    <rect x="0" y="0" width="260" height="120" rx="16" fill="#ffffff" stroke="#e2e8f0"/>
+    <text x="16" y="28" font-size="16" font-family="Arial" fill="#0f172a">Bin BIN-1001</text>
+    <text x="16" y="50" font-size="12" fill="#94a3b8">Zone 2 — Last seen: 2025-10-23 10:01</text>
+    <rect x="16" y="72" width="228" height="14" rx="8" fill="#eef2ff"/>
+    <rect x="16" y="72" width="220" height="14" rx="8" fill="#fca5a5"/>
+    <text x="200" y="86" font-size="12" fill="#0f172a">97% (MAINT)</text>
+  </g>
+</svg>
